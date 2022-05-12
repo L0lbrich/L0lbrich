@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are pinned down below
 
-- 📫 How to reach me **sspradling78@gmail.com**
+- 📫 How to reach me **logan.olbrich@gmail.com**
 
 - 📄 Know about my experiences -- Interview me
 
-- ⚡ Fun fact **I love to make music with any instrument I can get my hands on!**
+- ⚡ Fun fact **Avid Competitive FPS gamer! HMU if you wanna play**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sspradling78"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sspradling78" /></a></p><br><br>
