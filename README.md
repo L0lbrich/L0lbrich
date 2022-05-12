@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=L0lbrich&label=Profile%20views&color=0e75b6&style=flat" alt="L0lbrich" /> </p>
 
-- 🌱 I’m currently getting ready to graduate **Data Science w/Python** **@bloominstituteoftechnology**
+- 🌱 I’m currently working on building my skills in Neural Networks and Machine learing Techniques!
 
 - 👨‍💻 All of my projects are pinned down below
 
 - 📫 How to reach me **logan.olbrich@gmail.com**
 
-- 📄 Know about my experiences -- Interview me
+- 📄 Want to know about my experiences? -- Send me an email and we can schedule an interview!
 
-- ⚡ Fun fact **Avid Competitive FPS gamer! HMU if you wanna play**
+- ⚡ Fun fact **probably playing video games or disc golf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
