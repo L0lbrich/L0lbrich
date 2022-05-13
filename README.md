@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📄 Want to know about my experiences? -- Send me an email and we can schedule an interview!
 
-- ⚡ Fun fact -->**I'm probably playing video games or disc golf!**
+- ⚡ Fun fact --> **I'm probably playing video games or disc golf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
