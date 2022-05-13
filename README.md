@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, I'm Logan</h1>
+<h1 align="center">Hey there👋, I'm Logan!</h1>
 <h3 align="center">I just graduated from Bloom Institute of Technology with a Certificate of Completion in Data Science!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=L0lbrich&label=Profile%20views&color=0e75b6&style=flat" alt="L0lbrich" /> </p>
