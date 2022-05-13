@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are pinned down below
 
-- 📫 How to reach me **logan.olbrich@gmail.com**
+- 📫 you can reach me at --> **logan.olbrich@gmail.com**
 
 - 📄 Want to know about my experiences? -- Send me an email and we can schedule an interview!
 
