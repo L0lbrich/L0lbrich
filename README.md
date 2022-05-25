@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
 <h1 align="center">Hey there👋, I'm Logan!</h1>
 <h3 align="center">I just graduated from Bloom Institute of Technology with a Certificate of Completion in Data Science!</h3>
 
