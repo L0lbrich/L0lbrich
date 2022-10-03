@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=L0lbrich&label=Profile%20views&color=0e75b6&style=flat" alt="L0lbrich" /> </p>
 
-- 🌱 I’m currently working on building my skills in Neural Networks and Machine learing Techniques!
+- 🌱 I’m currently working on building my skills in Statistics, Python, Neural Networks and Machine learing!
 
 - 👨‍💻 All of my projects are pinned down below
 
